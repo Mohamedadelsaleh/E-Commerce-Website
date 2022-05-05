@@ -87,8 +87,8 @@ const NavBar = () => {
                     <Logo> MGN Store </Logo>
                 </Center>
                 <Right>
-                    <MenuItem>Register</MenuItem>
-                    <MenuItem>Sign IN</MenuItem>
+                    <MenuItem>REGISTER</MenuItem>
+                    <MenuItem>SIGN IN</MenuItem>
                     <MenuItem>
                         <Badge badgeContent={100} color="primary">
                             <ShoppingCartOutlinedIcon />
